@@ -14,7 +14,10 @@ using namespace std;
              hole == hole-1
          }
          a[hole] == value;
-
+// most insertion sort algorithms
+// what is algorithm is computational procedure that takes some values as input 
+// and produces some values as output. there are three enquires they are design ,theory and implementation
+// design is the
      }
      return 0;
  }
